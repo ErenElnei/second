@@ -34,7 +34,7 @@ namespace MyNotepad
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(122, 152);
+            this.button1.Location = new System.Drawing.Point(339, 152);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(139, 82);
             this.button1.TabIndex = 0;
@@ -46,8 +46,8 @@ namespace MyNotepad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Yellow;
-            this.ClientSize = new System.Drawing.Size(402, 405);
+            this.BackColor = System.Drawing.Color.Orange;
+            this.ClientSize = new System.Drawing.Size(887, 405);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Блокнот";
